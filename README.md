@@ -1,4 +1,4 @@
-# This Repository contains the following OS algorithim's programs in C.
+# This Repository contains the following OS Algorithim's code in C.
 ### A C-program to implement the producer – consumer problem using mutual exclusion (mutex).
 
 ### CPU Scheduling Algorithim
