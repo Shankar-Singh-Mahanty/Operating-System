@@ -1,6 +1,6 @@
 # Operating-System
 **This Repository contains the following OS algorithim's programs in C.**
-##### A C-program to implement the producer – consumer problem using mutual exclusion (mutex).
+### A C-program to implement the producer – consumer problem using mutual exclusion (mutex).
 
 ### CPU Scheduling Algorithim
   + First Come First Serve (FCFS)
