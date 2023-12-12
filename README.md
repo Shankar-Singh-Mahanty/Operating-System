@@ -21,4 +21,10 @@
   + First Fit Memory Allocation
   + Best Fit Memory Allocation
   + Worst Fit Memory Allocation
+### Experiments
+_Contains .pdf files on the following topics respectively._
+  1. To study about the basics of UNIX / LINUX commands.
+  2. To write C Programs using different system calls of UNIX operating system.
+  3. UNIX / LINUX Shell Programming Basics.
+  4. IPC (Inter Process Communication) , Thread Manipulation, System Calls and Synchronization.
  
